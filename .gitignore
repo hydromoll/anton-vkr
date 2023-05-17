@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+src/trashApp.tsx
+src/trashApp2.tsx
+src/comp.tsx
+src/api
+src/код эксель.bas
+src/excel.ts
